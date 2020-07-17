@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import Ionicons from "react-native-vector-icons/Ionicons";
 import { StyleSheet, Text, View, Image } from 'react-native';
